@@ -11,8 +11,8 @@
 #define back  HIGH
 #define init_steps 1200 //TODO: Change after measuring
 #define DEFAULTLEVEL 3
-#define MAXPUMPDEL 6500
-#define MINPUMPDEL 2000
+#define MAXPUMPDEL 9500
+#define MINPUMPDEL 4500
 
 
 //Connections:
