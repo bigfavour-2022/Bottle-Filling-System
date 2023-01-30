@@ -92,6 +92,7 @@ void loop()
 
   while(!start)
     getNoBottles();
+    start = false;
 
   while(!start)
     getPumpLevel();
